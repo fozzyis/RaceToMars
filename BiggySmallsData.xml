@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamedata>
+  <StartingBalance>1</StartingBalance>
+  <CompanyName>Biggy Smalls Cool Medina</CompanyName>
+  <ShareHolderBonusPercent>0.02</ShareHolderBonusPercent>
+  <NumberOfStores>10</NumberOfStores>
+  <StartingCost>0.85</StartingCost>
+  <StartingTimer>10</StartingTimer>
+  <StartingProfit>0.25</StartingProfit>
+  <StartingManagerCost>10</StartingManagerCost>
+  <StartingCostFactor>20</StartingCostFactor>
+  <StartingTimerFactor>4</StartingTimerFactor>
+  <StartingProfitFactor>1.25</StartingProfitFactor>
+  <StartingManagerFactor>15</StartingManagerFactor>
+  <StoreMultiplier>1.2</StoreMultiplier>
+  <StoreTimerDivision>25</StoreTimerDivision>
+  <UpgradesPerStore>2</UpgradesPerStore>
+  <UpgradeBaseFactor>200000</UpgradeBaseFactor>
+  <UpgradeCostMultiplierFactor>10</UpgradeCostMultiplierFactor>
+  <UpgradeMultiplier>3</UpgradeMultiplier>
+  <store>
+    <id>1</id>
+    <name>Arch Global</name>
+    <image>ufo</image>
+    <BaseStoreCost>0.85</BaseStoreCost>
+    <BaseStoreProfit>0.25</BaseStoreProfit>
+    <StoreTimer>10</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>10</ManagerCost>
+      <ManagerName>Rodger Simeon</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Aquire a national patent from Willms-McDermott</UpgradeName>
+        <UpgradeCost>1700000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>"Aquire a architecture patent from Kertzmann, Kutch and Cummerata"</UpgradeName>
+        <UpgradeCost>3400000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>2</id>
+    <name>Juggernaut Inc</name>
+    <image>Bank</image>
+    <BaseStoreCost>17</BaseStoreCost>
+    <BaseStoreProfit>0.3125</BaseStoreProfit>
+    <StoreTimer>40</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>150</ManagerCost>
+      <ManagerName>Darleen Marty</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Aquire a Decentralized patent from Kirlin LLC</UpgradeName>
+        <UpgradeCost>3.4E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName> Import Assimilated upward-trending product from Kaolack</UpgradeName>
+        <UpgradeCost>6.8E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>3</id>
+    <name>Main Parable</name>
+    <image>beer</image>
+    <BaseStoreCost>340</BaseStoreCost>
+    <BaseStoreProfit>0.390625</BaseStoreProfit>
+    <StoreTimer>160</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2250</ManagerCost>
+      <ManagerName>Lanora Keltner</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Invest in the Multi-lateral Major Banks sector to boost profits </UpgradeName>
+        <UpgradeCost>6.8E+08</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Khmer</UpgradeName>
+        <UpgradeCost>1.36E+09</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>4</id>
+    <name>Treasury Systems</name>
+    <image>bibi</image>
+    <BaseStoreCost>6800</BaseStoreCost>
+    <BaseStoreProfit>0.4882813</BaseStoreProfit>
+    <StoreTimer>640</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>33750</ManagerCost>
+      <ManagerName>Loyce Maddocks</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Invest in the secured line Electric Utilities: Central sector to boost profits </UpgradeName>
+        <UpgradeCost>1.36E+10</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new Human Resources Manager</UpgradeName>
+        <UpgradeCost>2.72E+10</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>5</id>
+    <name>The Fantastic Fire</name>
+    <image>blackstarburst</image>
+    <BaseStoreCost>136000</BaseStoreCost>
+    <BaseStoreProfit>0.6103516</BaseStoreProfit>
+    <StoreTimer>2560</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>506250</ManagerCost>
+      <ManagerName>Rochel Reimann</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Recurit a new Assistant Manager</UpgradeName>
+        <UpgradeCost>2.72E+11</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new Marketing Manager</UpgradeName>
+        <UpgradeCost>5.44E+11</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>6</id>
+    <name>The Dry Blossom</name>
+    <image>bluelogo</image>
+    <BaseStoreCost>2720000</BaseStoreCost>
+    <BaseStoreProfit>0.7629395</BaseStoreProfit>
+    <StoreTimer>10240</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>7593750</ManagerCost>
+      <ManagerName>Shane Job</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Centralized business redesign</UpgradeName>
+        <UpgradeCost>5.44E+12</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Aquire a task-force patent from Hartmann LLC</UpgradeName>
+        <UpgradeCost>1.088E+13</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>7</id>
+    <name>The Fake Cup Deli</name>
+    <image>Blue_eye_icon</image>
+    <BaseStoreCost>5.44E+07</BaseStoreCost>
+    <BaseStoreProfit>0.9536743</BaseStoreProfit>
+    <StoreTimer>40960</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.139062E+08</ManagerCost>
+      <ManagerName>Kelly Mendel</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Recurit a new Community Outreach Specialist</UpgradeName>
+        <UpgradeCost>1.088E+14</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>New heuristic product design from Burkina Faso</UpgradeName>
+        <UpgradeCost>2.176E+14</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>8</id>
+    <name>Jumping Thermo Inc</name>
+    <image>bookcase</image>
+    <BaseStoreCost>1.088E+09</BaseStoreCost>
+    <BaseStoreProfit>1.192093</BaseStoreProfit>
+    <StoreTimer>163840</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.708594E+09</ManagerCost>
+      <ManagerName>Coleen Faison</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>uniform business redesign</UpgradeName>
+        <UpgradeCost>2.176E+15</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Punjabi</UpgradeName>
+        <UpgradeCost>4.352E+15</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>9</id>
+    <name>Chop Shop Technologies</name>
+    <image>creditcheck</image>
+    <BaseStoreCost>2.176E+10</BaseStoreCost>
+    <BaseStoreProfit>1.490116</BaseStoreProfit>
+    <StoreTimer>655360</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.562891E+10</ManagerCost>
+      <ManagerName>Jesusita Trace</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>New bottom-line product design from Russia</UpgradeName>
+        <UpgradeCost>4.352E+16</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new General Manager</UpgradeName>
+        <UpgradeCost>8.704E+16</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>10</id>
+    <name>Vagabond</name>
+    <image>crown</image>
+    <BaseStoreCost>4.352E+11</BaseStoreCost>
+    <BaseStoreProfit>1.862645</BaseStoreProfit>
+    <StoreTimer>2621440</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3.844336E+11</ManagerCost>
+      <ManagerName>Jeneva Mothershed</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>New contextually-based product design from Mongolia</UpgradeName>
+        <UpgradeCost>8.704E+17</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Invest in the methodical Major Banks sector to boost profits </UpgradeName>
+        <UpgradeCost>1.7408E+18</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+</gamedata>

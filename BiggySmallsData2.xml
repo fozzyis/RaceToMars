@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamedata>
+  <StartingBalance>1</StartingBalance>
+  <CompanyName>Biggy Smalls Cool Medina</CompanyName>
+  <ShareHolderBonusPercent>0.02</ShareHolderBonusPercent>
+  <NumberOfStores>10</NumberOfStores>
+  <StartingCost>0.85</StartingCost>
+  <StartingTimer>10</StartingTimer>
+  <StartingProfit>0.25</StartingProfit>
+  <StartingManagerCost>10</StartingManagerCost>
+  <StartingCostFactor>20</StartingCostFactor>
+  <StartingTimerFactor>4</StartingTimerFactor>
+  <StartingProfitFactor>1.25</StartingProfitFactor>
+  <StartingManagerFactor>15</StartingManagerFactor>
+  <StoreMultiplier>1.2</StoreMultiplier>
+  <StoreTimerDivision>25</StoreTimerDivision>
+  <UpgradesPerStore>2</UpgradesPerStore>
+  <UpgradeBaseFactor>200000</UpgradeBaseFactor>
+  <UpgradeCostMultiplierFactor>10</UpgradeCostMultiplierFactor>
+  <UpgradeMultiplier>3</UpgradeMultiplier>
+  <store>
+    <id>1</id>
+    <name>Barracuda Industries</name>
+    <image>icon-ship</image>
+    <BaseStoreCost>0.85</BaseStoreCost>
+    <BaseStoreProfit>0.25</BaseStoreProfit>
+    <StoreTimer>10</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>10</ManagerCost>
+      <ManagerName>Salina Barkan</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Georgian</UpgradeName>
+        <UpgradeCost>1700000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>initiative business redesign</UpgradeName>
+        <UpgradeCost>3400000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>2</id>
+    <name>Noah's Ark Inc</name>
+    <image>icecream</image>
+    <BaseStoreCost>17</BaseStoreCost>
+    <BaseStoreProfit>0.3125</BaseStoreProfit>
+    <StoreTimer>40</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>150</ManagerCost>
+      <ManagerName>Maybelle Haberle</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>New methodology product design from Philippines</UpgradeName>
+        <UpgradeCost>3.4E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Aquire a model patent from Blanda LLC</UpgradeName>
+        <UpgradeCost>6.8E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>3</id>
+    <name>Silver Muldoon</name>
+    <image>internet</image>
+    <BaseStoreCost>340</BaseStoreCost>
+    <BaseStoreProfit>0.390625</BaseStoreProfit>
+    <StoreTimer>160</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2250</ManagerCost>
+      <ManagerName>Martin Oslund</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Aquire a Multi-tiered patent from Kerluke-Hintz</UpgradeName>
+        <UpgradeCost>6.8E+08</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Afrikaans</UpgradeName>
+        <UpgradeCost>1.36E+09</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>4</id>
+    <name>Scoop Inc</name>
+    <image>hotel</image>
+    <BaseStoreCost>6800</BaseStoreCost>
+    <BaseStoreProfit>0.4882813</BaseStoreProfit>
+    <StoreTimer>640</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>33750</ManagerCost>
+      <ManagerName>Joie Akins</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>New task-force product design from China</UpgradeName>
+        <UpgradeCost>1.36E+10</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>New budgetary management product design from China</UpgradeName>
+        <UpgradeCost>2.72E+10</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>5</id>
+    <name>Hot Seabat Inc</name>
+    <image>Joomla_Shiny_Icon</image>
+    <BaseStoreCost>136000</BaseStoreCost>
+    <BaseStoreProfit>0.6103516</BaseStoreProfit>
+    <StoreTimer>2560</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>506250</ManagerCost>
+      <ManagerName>Cristal Losh</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName> Import Balanced heuristic emulation from Arnage</UpgradeName>
+        <UpgradeCost>2.72E+11</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>New Adaptive product design from China</UpgradeName>
+        <UpgradeCost>5.44E+11</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>6</id>
+    <name>Gold Outside</name>
+    <image>reality</image>
+    <BaseStoreCost>2720000</BaseStoreCost>
+    <BaseStoreProfit>0.7629395</BaseStoreProfit>
+    <StoreTimer>10240</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>7593750</ManagerCost>
+      <ManagerName>Stephine Gowins</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName> Import Business-focused tertiary internet solution from Yushikalasu</UpgradeName>
+        <UpgradeCost>5.44E+12</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>moderator business redesign</UpgradeName>
+        <UpgradeCost>1.088E+13</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>7</id>
+    <name>Live Zircon Inc</name>
+    <image>rectangle-shapes</image>
+    <BaseStoreCost>5.44E+07</BaseStoreCost>
+    <BaseStoreProfit>0.9536743</BaseStoreProfit>
+    <StoreTimer>40960</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.139062E+08</ManagerCost>
+      <ManagerName>Brande Staten</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Arabic</UpgradeName>
+        <UpgradeCost>1.088E+14</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Dari</UpgradeName>
+        <UpgradeCost>2.176E+14</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>8</id>
+    <name>Jumping Scuttlebutt</name>
+    <image>polarearth</image>
+    <BaseStoreCost>1.088E+09</BaseStoreCost>
+    <BaseStoreProfit>1.192093</BaseStoreProfit>
+    <StoreTimer>163840</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.708594E+09</ManagerCost>
+      <ManagerName>German Weddle</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>New Organic product design from China</UpgradeName>
+        <UpgradeCost>2.176E+15</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName> Import Expanded asymmetric frame from Shahrak-e Bākharz</UpgradeName>
+        <UpgradeCost>4.352E+15</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>9</id>
+    <name>Dado Flux</name>
+    <image>pharm</image>
+    <BaseStoreCost>2.176E+10</BaseStoreCost>
+    <BaseStoreProfit>1.490116</BaseStoreProfit>
+    <StoreTimer>655360</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.562891E+10</ManagerCost>
+      <ManagerName>Domitila Fulford</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName> Import Exclusive methodical task-force from Alta</UpgradeName>
+        <UpgradeCost>4.352E+16</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new Nurse Practicioner</UpgradeName>
+        <UpgradeCost>8.704E+16</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>10</id>
+    <name>Green Nana Flux</name>
+    <image>Robot-icon</image>
+    <BaseStoreCost>4.352E+11</BaseStoreCost>
+    <BaseStoreProfit>1.862645</BaseStoreProfit>
+    <StoreTimer>2621440</StoreTimer>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3.844336E+11</ManagerCost>
+      <ManagerName>Nila Fowkes</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Yiddish</UpgradeName>
+        <UpgradeCost>8.704E+17</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>protocol business redesign</UpgradeName>
+        <UpgradeCost>1.7408E+18</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+</gamedata>

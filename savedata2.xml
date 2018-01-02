@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamedata>
+  <StartingBalance>1.25</StartingBalance>
+  <CompanyName>Bak in Biz</CompanyName>
+  <ShareHolderBonusPercent>0.02</ShareHolderBonusPercent>
+  <NumberOfStores>6</NumberOfStores>
+  <StartingCost>1</StartingCost>
+  <StartingTimer>5</StartingTimer>
+  <StartingProfit>1</StartingProfit>
+  <StartingManagerCost>25</StartingManagerCost>
+  <StartingCostFactor>5</StartingCostFactor>
+  <StartingTimerFactor>1.5</StartingTimerFactor>
+  <StartingProfitFactor>1.05</StartingProfitFactor>
+  <StartingManagerFactor>10</StartingManagerFactor>
+  <StoreMultiplier>1.15</StoreMultiplier>
+  <StoreTimerDivision>25</StoreTimerDivision>
+  <UpgradesPerStore>3</UpgradesPerStore>
+  <UpgradeBaseFactor>20000</UpgradeBaseFactor>
+  <UpgradeCostMultiplierFactor>1.15</UpgradeCostMultiplierFactor>
+  <UpgradeMultiplier>3</UpgradeMultiplier>
+  <store>
+    <id>1</id>
+    <name>Quartermaster Works</name>
+    <image>VMware</image>
+    <BaseStoreCost>1</BaseStoreCost>
+    <BaseStoreProfit>1</BaseStoreProfit>
+    <StoreTimer>5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>25</ManagerCost>
+      <ManagerName>Reyes Frankel</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Recurit a new Help Desk Operator</UpgradeName>
+        <UpgradeCost>23000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>"Aquire a Cross-group patent from King, Predovic and Greenfelder"</UpgradeName>
+        <UpgradeCost>46000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Face to face business redesign</UpgradeName>
+        <UpgradeCost>69000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>2</id>
+    <name>Live Fuel</name>
+    <image>vine</image>
+    <BaseStoreCost>5</BaseStoreCost>
+    <BaseStoreProfit>1.05</BaseStoreProfit>
+    <StoreTimer>7.5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>250</ManagerCost>
+      <ManagerName>Deena Gusler</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Aquire a project patent from Greenfelder-Mitchell</UpgradeName>
+        <UpgradeCost>115000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new Staff Accountant II</UpgradeName>
+        <UpgradeCost>230000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName> Import Multi-channelled interactive contingency from Mulchén</UpgradeName>
+        <UpgradeCost>345000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>3</id>
+    <name>Velocity Services</name>
+    <image>videostore</image>
+    <BaseStoreCost>25</BaseStoreCost>
+    <BaseStoreProfit>1.1025</BaseStoreProfit>
+    <StoreTimer>11.25</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2500</ManagerCost>
+      <ManagerName>Bula Engen</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Oriya</UpgradeName>
+        <UpgradeCost>575000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>"Aquire a methodology patent from Muller, Metz and Larson"</UpgradeName>
+        <UpgradeCost>1150000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>capability business redesign</UpgradeName>
+        <UpgradeCost>1725000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>4</id>
+    <name>Arch Global</name>
+    <image>videopublisher</image>
+    <BaseStoreCost>125</BaseStoreCost>
+    <BaseStoreProfit>1.157625</BaseStoreProfit>
+    <StoreTimer>16.875</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>25000</ManagerCost>
+      <ManagerName>Lexie Poole</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Swahili</UpgradeName>
+        <UpgradeCost>2875000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new Business Systems Development Analyst</UpgradeName>
+        <UpgradeCost>5750000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>throughput business redesign</UpgradeName>
+        <UpgradeCost>8625000</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>5</id>
+    <name>Green Talkabout Inc</name>
+    <image>ufo</image>
+    <BaseStoreCost>625</BaseStoreCost>
+    <BaseStoreProfit>1.215506</BaseStoreProfit>
+    <StoreTimer>25.3125</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>250000</ManagerCost>
+      <ManagerName>Deangelo Slocumb</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>zero defect business redesign</UpgradeName>
+        <UpgradeCost>1.4375E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Recurit a new Geological Engineer</UpgradeName>
+        <UpgradeCost>2.875E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName> Import Optimized neutral ability from Phước An</UpgradeName>
+        <UpgradeCost>4.3125E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+  <store>
+    <id>6</id>
+    <name>Ripcord Factory</name>
+    <image>Toolsverse_logo</image>
+    <BaseStoreCost>3125</BaseStoreCost>
+    <BaseStoreProfit>1.276281</BaseStoreProfit>
+    <StoreTimer>37.96875</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2500000</ManagerCost>
+      <ManagerName>Rodger Simeon</ManagerName>
+    </Manager>
+    <Upgrades>
+      <Upgrade>
+        <UpgradeName>Provide customer support in Norwegian</UpgradeName>
+        <UpgradeCost>7.1875E+07</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>New toolset product design from Canada</UpgradeName>
+        <UpgradeCost>1.4375E+08</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+      <Upgrade>
+        <UpgradeName>Invest in the fresh-thinking Department/Specialty Retail Stores sector to boost profits </UpgradeName>
+        <UpgradeCost>2.15625E+08</UpgradeCost>
+        <UpgradeMultiplier>3</UpgradeMultiplier>
+      </Upgrade>
+    </Upgrades>
+  </store>
+</gamedata>

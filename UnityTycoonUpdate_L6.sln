@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTycoonUpdate_L6", "UnityTycoonUpdate_L6.csproj", "{791735AB-F02C-371E-B9BF-31AB9F36F597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTycoonUpdate_L6.Editor", "UnityTycoonUpdate_L6.Editor.csproj", "{96D58D40-8167-1847-A45F-3F1F65EEB474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791735AB-F02C-371E-B9BF-31AB9F36F597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791735AB-F02C-371E-B9BF-31AB9F36F597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791735AB-F02C-371E-B9BF-31AB9F36F597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791735AB-F02C-371E-B9BF-31AB9F36F597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D58D40-8167-1847-A45F-3F1F65EEB474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D58D40-8167-1847-A45F-3F1F65EEB474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D58D40-8167-1847-A45F-3F1F65EEB474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D58D40-8167-1847-A45F-3F1F65EEB474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

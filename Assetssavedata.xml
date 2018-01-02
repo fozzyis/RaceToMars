@@ -1,0 +1,1055 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamedata>
+  <StartingBalance>2.25</StartingBalance>
+  <CompanyName>Bak in Biz</CompanyName>
+  <store>
+    <id>1</id>
+    <name>Store #1</name>
+    <BaseStoreCost>1</BaseStoreCost>
+    <BaseStoreProfit>0.3</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>100</ManagerCost>
+      <ManagerName>Manager #1</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>2</id>
+    <name>Store #2</name>
+    <BaseStoreCost>4.15</BaseStoreCost>
+    <BaseStoreProfit>1.215</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>9</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>800</ManagerCost>
+      <ManagerName>Manager #2</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>3</id>
+    <name>Store #3</name>
+    <BaseStoreCost>17.2225</BaseStoreCost>
+    <BaseStoreProfit>4.920751</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>16.2</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>6400</ManagerCost>
+      <ManagerName>Manager #3</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>4</id>
+    <name>Store #4</name>
+    <BaseStoreCost>71.47337</BaseStoreCost>
+    <BaseStoreProfit>19.92904</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>29.16</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>51200</ManagerCost>
+      <ManagerName>Manager #4</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>5</id>
+    <name>Store #5</name>
+    <BaseStoreCost>296.6145</BaseStoreCost>
+    <BaseStoreProfit>80.71262</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>52.488</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>409600</ManagerCost>
+      <ManagerName>Manager #5</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>6</id>
+    <name>Store #6</name>
+    <BaseStoreCost>1230.95</BaseStoreCost>
+    <BaseStoreProfit>326.8861</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>94.47839</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3276800</ManagerCost>
+      <ManagerName>Manager #6</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>7</id>
+    <name>Store #7</name>
+    <BaseStoreCost>5108.443</BaseStoreCost>
+    <BaseStoreProfit>1323.889</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>170.0611</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.62144E+07</ManagerCost>
+      <ManagerName>Manager #7</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>8</id>
+    <name>Store #8</name>
+    <BaseStoreCost>21200.04</BaseStoreCost>
+    <BaseStoreProfit>5361.75</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>306.11</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.097152E+08</ManagerCost>
+      <ManagerName>Manager #8</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>9</id>
+    <name>Store #9</name>
+    <BaseStoreCost>87980.17</BaseStoreCost>
+    <BaseStoreProfit>21715.09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>550.9979</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.677722E+09</ManagerCost>
+      <ManagerName>Manager #9</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>10</id>
+    <name>Store #10</name>
+    <BaseStoreCost>365117.7</BaseStoreCost>
+    <BaseStoreProfit>87946.11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>991.7963</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.342177E+10</ManagerCost>
+      <ManagerName>Manager #10</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>11</id>
+    <name>Store #11</name>
+    <BaseStoreCost>1515239</BaseStoreCost>
+    <BaseStoreProfit>356181.8</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>1785.233</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.073742E+11</ManagerCost>
+      <ManagerName>Manager #11</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>12</id>
+    <name>Store #12</name>
+    <BaseStoreCost>6288241</BaseStoreCost>
+    <BaseStoreProfit>1442536</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>3213.42</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>8.589935E+11</ManagerCost>
+      <ManagerName>Manager #12</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>13</id>
+    <name>Store #13</name>
+    <BaseStoreCost>2.60962E+07</BaseStoreCost>
+    <BaseStoreProfit>5842272</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>5784.156</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>6.871948E+12</ManagerCost>
+      <ManagerName>Manager #13</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>14</id>
+    <name>Store #14</name>
+    <BaseStoreCost>1.082992E+08</BaseStoreCost>
+    <BaseStoreProfit>2.36612E+07</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>10411.48</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>5.497558E+13</ManagerCost>
+      <ManagerName>Manager #14</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>15</id>
+    <name>Store #15</name>
+    <BaseStoreCost>4.494418E+08</BaseStoreCost>
+    <BaseStoreProfit>9.582786E+07</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>18740.66</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>4.398047E+14</ManagerCost>
+      <ManagerName>Manager #15</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>16</id>
+    <name>Store #16</name>
+    <BaseStoreCost>1.865183E+09</BaseStoreCost>
+    <BaseStoreProfit>3.881029E+08</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>33733.2</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3.518437E+15</ManagerCost>
+      <ManagerName>Manager #16</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>17</id>
+    <name>Store #17</name>
+    <BaseStoreCost>7.740512E+09</BaseStoreCost>
+    <BaseStoreProfit>1.571817E+09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>60719.75</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.81475E+16</ManagerCost>
+      <ManagerName>Manager #17</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>18</id>
+    <name>Store #18</name>
+    <BaseStoreCost>3.212312E+10</BaseStoreCost>
+    <BaseStoreProfit>6.365858E+09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>109295.5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.2518E+17</ManagerCost>
+      <ManagerName>Manager #18</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>19</id>
+    <name>Store #19</name>
+    <BaseStoreCost>1.33311E+11</BaseStoreCost>
+    <BaseStoreProfit>2.578173E+10</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>196732</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.80144E+18</ManagerCost>
+      <ManagerName>Manager #19</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>20</id>
+    <name>Store #20</name>
+    <BaseStoreCost>5.532405E+11</BaseStoreCost>
+    <BaseStoreProfit>1.04416E+11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>354117.6</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.441152E+19</ManagerCost>
+      <ManagerName>Manager #20</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>21</id>
+    <name>Store #21</name>
+    <BaseStoreCost>2.295948E+12</BaseStoreCost>
+    <BaseStoreProfit>4.228848E+11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>637411.6</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.152922E+20</ManagerCost>
+      <ManagerName>Manager #21</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>22</id>
+    <name>Store #22</name>
+    <BaseStoreCost>9.528185E+12</BaseStoreCost>
+    <BaseStoreProfit>1.712683E+12</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>1147341</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>9.223372E+20</ManagerCost>
+      <ManagerName>Manager #22</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>23</id>
+    <name>Store #23</name>
+    <BaseStoreCost>3.954197E+13</BaseStoreCost>
+    <BaseStoreProfit>6.936369E+12</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>2065214</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>7.378698E+21</ManagerCost>
+      <ManagerName>Manager #23</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>24</id>
+    <name>Store #24</name>
+    <BaseStoreCost>1.640992E+14</BaseStoreCost>
+    <BaseStoreProfit>2.809229E+13</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>3717384</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>5.902958E+22</ManagerCost>
+      <ManagerName>Manager #24</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>25</id>
+    <name>Store #25</name>
+    <BaseStoreCost>6.810116E+14</BaseStoreCost>
+    <BaseStoreProfit>1.137738E+14</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>6691292</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>4.722366E+23</ManagerCost>
+      <ManagerName>Manager #25</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>26</id>
+    <name>Store #1</name>
+    <BaseStoreCost>1</BaseStoreCost>
+    <BaseStoreProfit>0.3</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>100</ManagerCost>
+      <ManagerName>Manager #1</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>27</id>
+    <name>Store #2</name>
+    <BaseStoreCost>4.15</BaseStoreCost>
+    <BaseStoreProfit>1.215</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>9</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>800</ManagerCost>
+      <ManagerName>Manager #2</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>28</id>
+    <name>Store #3</name>
+    <BaseStoreCost>17.2225</BaseStoreCost>
+    <BaseStoreProfit>4.920751</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>16.2</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>6400</ManagerCost>
+      <ManagerName>Manager #3</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>29</id>
+    <name>Store #4</name>
+    <BaseStoreCost>71.47337</BaseStoreCost>
+    <BaseStoreProfit>19.92904</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>29.16</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>51200</ManagerCost>
+      <ManagerName>Manager #4</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>30</id>
+    <name>Store #5</name>
+    <BaseStoreCost>296.6145</BaseStoreCost>
+    <BaseStoreProfit>80.71262</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>52.488</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>409600</ManagerCost>
+      <ManagerName>Manager #5</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>31</id>
+    <name>Store #6</name>
+    <BaseStoreCost>1230.95</BaseStoreCost>
+    <BaseStoreProfit>326.8861</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>94.47839</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3276800</ManagerCost>
+      <ManagerName>Manager #6</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>32</id>
+    <name>Store #7</name>
+    <BaseStoreCost>5108.443</BaseStoreCost>
+    <BaseStoreProfit>1323.889</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>170.0611</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.62144E+07</ManagerCost>
+      <ManagerName>Manager #7</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>33</id>
+    <name>Store #8</name>
+    <BaseStoreCost>21200.04</BaseStoreCost>
+    <BaseStoreProfit>5361.75</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>306.11</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.097152E+08</ManagerCost>
+      <ManagerName>Manager #8</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>34</id>
+    <name>Store #9</name>
+    <BaseStoreCost>87980.17</BaseStoreCost>
+    <BaseStoreProfit>21715.09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>550.9979</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.677722E+09</ManagerCost>
+      <ManagerName>Manager #9</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>35</id>
+    <name>Store #10</name>
+    <BaseStoreCost>365117.7</BaseStoreCost>
+    <BaseStoreProfit>87946.11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>991.7963</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.342177E+10</ManagerCost>
+      <ManagerName>Manager #10</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>36</id>
+    <name>Store #11</name>
+    <BaseStoreCost>1515239</BaseStoreCost>
+    <BaseStoreProfit>356181.8</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>1785.233</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.073742E+11</ManagerCost>
+      <ManagerName>Manager #11</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>37</id>
+    <name>Store #12</name>
+    <BaseStoreCost>6288241</BaseStoreCost>
+    <BaseStoreProfit>1442536</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>3213.42</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>8.589935E+11</ManagerCost>
+      <ManagerName>Manager #12</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>38</id>
+    <name>Store #13</name>
+    <BaseStoreCost>2.60962E+07</BaseStoreCost>
+    <BaseStoreProfit>5842272</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>5784.156</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>6.871948E+12</ManagerCost>
+      <ManagerName>Manager #13</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>39</id>
+    <name>Store #14</name>
+    <BaseStoreCost>1.082992E+08</BaseStoreCost>
+    <BaseStoreProfit>2.36612E+07</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>10411.48</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>5.497558E+13</ManagerCost>
+      <ManagerName>Manager #14</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>40</id>
+    <name>Store #15</name>
+    <BaseStoreCost>4.494418E+08</BaseStoreCost>
+    <BaseStoreProfit>9.582786E+07</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>18740.66</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>4.398047E+14</ManagerCost>
+      <ManagerName>Manager #15</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>41</id>
+    <name>Store #16</name>
+    <BaseStoreCost>1.865183E+09</BaseStoreCost>
+    <BaseStoreProfit>3.881029E+08</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>33733.2</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3.518437E+15</ManagerCost>
+      <ManagerName>Manager #16</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>42</id>
+    <name>Store #17</name>
+    <BaseStoreCost>7.740512E+09</BaseStoreCost>
+    <BaseStoreProfit>1.571817E+09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>60719.75</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.81475E+16</ManagerCost>
+      <ManagerName>Manager #17</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>43</id>
+    <name>Store #18</name>
+    <BaseStoreCost>3.212312E+10</BaseStoreCost>
+    <BaseStoreProfit>6.365858E+09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>109295.5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.2518E+17</ManagerCost>
+      <ManagerName>Manager #18</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>44</id>
+    <name>Store #19</name>
+    <BaseStoreCost>1.33311E+11</BaseStoreCost>
+    <BaseStoreProfit>2.578173E+10</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>196732</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.80144E+18</ManagerCost>
+      <ManagerName>Manager #19</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>45</id>
+    <name>Store #20</name>
+    <BaseStoreCost>5.532405E+11</BaseStoreCost>
+    <BaseStoreProfit>1.04416E+11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>354117.6</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.441152E+19</ManagerCost>
+      <ManagerName>Manager #20</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>46</id>
+    <name>Store #21</name>
+    <BaseStoreCost>2.295948E+12</BaseStoreCost>
+    <BaseStoreProfit>4.228848E+11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>637411.6</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.152922E+20</ManagerCost>
+      <ManagerName>Manager #21</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>47</id>
+    <name>Store #22</name>
+    <BaseStoreCost>9.528185E+12</BaseStoreCost>
+    <BaseStoreProfit>1.712683E+12</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>1147341</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>9.223372E+20</ManagerCost>
+      <ManagerName>Manager #22</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>48</id>
+    <name>Store #23</name>
+    <BaseStoreCost>3.954197E+13</BaseStoreCost>
+    <BaseStoreProfit>6.936369E+12</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>2065214</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>7.378698E+21</ManagerCost>
+      <ManagerName>Manager #23</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>49</id>
+    <name>Store #24</name>
+    <BaseStoreCost>1.640992E+14</BaseStoreCost>
+    <BaseStoreProfit>2.809229E+13</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>3717384</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>5.902958E+22</ManagerCost>
+      <ManagerName>Manager #24</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>50</id>
+    <name>Store #25</name>
+    <BaseStoreCost>6.810116E+14</BaseStoreCost>
+    <BaseStoreProfit>1.137738E+14</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>6691292</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>4.722366E+23</ManagerCost>
+      <ManagerName>Manager #25</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>51</id>
+    <name>Store #1</name>
+    <BaseStoreCost>1</BaseStoreCost>
+    <BaseStoreProfit>0.3</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>100</ManagerCost>
+      <ManagerName>Manager #1</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>52</id>
+    <name>Store #2</name>
+    <BaseStoreCost>4.15</BaseStoreCost>
+    <BaseStoreProfit>1.215</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>9</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>800</ManagerCost>
+      <ManagerName>Manager #2</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>53</id>
+    <name>Store #3</name>
+    <BaseStoreCost>17.2225</BaseStoreCost>
+    <BaseStoreProfit>4.920751</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>16.2</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>6400</ManagerCost>
+      <ManagerName>Manager #3</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>54</id>
+    <name>Store #4</name>
+    <BaseStoreCost>71.47337</BaseStoreCost>
+    <BaseStoreProfit>19.92904</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>29.16</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>51200</ManagerCost>
+      <ManagerName>Manager #4</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>55</id>
+    <name>Store #5</name>
+    <BaseStoreCost>296.6145</BaseStoreCost>
+    <BaseStoreProfit>80.71262</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>52.488</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>409600</ManagerCost>
+      <ManagerName>Manager #5</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>56</id>
+    <name>Store #6</name>
+    <BaseStoreCost>1230.95</BaseStoreCost>
+    <BaseStoreProfit>326.8861</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>94.47839</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3276800</ManagerCost>
+      <ManagerName>Manager #6</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>57</id>
+    <name>Store #7</name>
+    <BaseStoreCost>5108.443</BaseStoreCost>
+    <BaseStoreProfit>1323.889</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>170.0611</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.62144E+07</ManagerCost>
+      <ManagerName>Manager #7</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>58</id>
+    <name>Store #8</name>
+    <BaseStoreCost>21200.04</BaseStoreCost>
+    <BaseStoreProfit>5361.75</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>306.11</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.097152E+08</ManagerCost>
+      <ManagerName>Manager #8</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>59</id>
+    <name>Store #9</name>
+    <BaseStoreCost>87980.17</BaseStoreCost>
+    <BaseStoreProfit>21715.09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>550.9979</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.677722E+09</ManagerCost>
+      <ManagerName>Manager #9</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>60</id>
+    <name>Store #10</name>
+    <BaseStoreCost>365117.7</BaseStoreCost>
+    <BaseStoreProfit>87946.11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>991.7963</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.342177E+10</ManagerCost>
+      <ManagerName>Manager #10</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>61</id>
+    <name>Store #11</name>
+    <BaseStoreCost>1515239</BaseStoreCost>
+    <BaseStoreProfit>356181.8</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>1785.233</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.073742E+11</ManagerCost>
+      <ManagerName>Manager #11</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>62</id>
+    <name>Store #12</name>
+    <BaseStoreCost>6288241</BaseStoreCost>
+    <BaseStoreProfit>1442536</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>3213.42</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>8.589935E+11</ManagerCost>
+      <ManagerName>Manager #12</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>63</id>
+    <name>Store #13</name>
+    <BaseStoreCost>2.60962E+07</BaseStoreCost>
+    <BaseStoreProfit>5842272</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>5784.156</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>6.871948E+12</ManagerCost>
+      <ManagerName>Manager #13</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>64</id>
+    <name>Store #14</name>
+    <BaseStoreCost>1.082992E+08</BaseStoreCost>
+    <BaseStoreProfit>2.36612E+07</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>10411.48</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>5.497558E+13</ManagerCost>
+      <ManagerName>Manager #14</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>65</id>
+    <name>Store #15</name>
+    <BaseStoreCost>4.494418E+08</BaseStoreCost>
+    <BaseStoreProfit>9.582786E+07</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>18740.66</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>4.398047E+14</ManagerCost>
+      <ManagerName>Manager #15</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>66</id>
+    <name>Store #16</name>
+    <BaseStoreCost>1.865183E+09</BaseStoreCost>
+    <BaseStoreProfit>3.881029E+08</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>33733.2</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>3.518437E+15</ManagerCost>
+      <ManagerName>Manager #16</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>67</id>
+    <name>Store #17</name>
+    <BaseStoreCost>7.740512E+09</BaseStoreCost>
+    <BaseStoreProfit>1.571817E+09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>60719.75</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.81475E+16</ManagerCost>
+      <ManagerName>Manager #17</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>68</id>
+    <name>Store #18</name>
+    <BaseStoreCost>3.212312E+10</BaseStoreCost>
+    <BaseStoreProfit>6.365858E+09</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>109295.5</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>2.2518E+17</ManagerCost>
+      <ManagerName>Manager #18</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>69</id>
+    <name>Store #19</name>
+    <BaseStoreCost>1.33311E+11</BaseStoreCost>
+    <BaseStoreProfit>2.578173E+10</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>196732</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.80144E+18</ManagerCost>
+      <ManagerName>Manager #19</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>70</id>
+    <name>Store #20</name>
+    <BaseStoreCost>5.532405E+11</BaseStoreCost>
+    <BaseStoreProfit>1.04416E+11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>354117.6</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.441152E+19</ManagerCost>
+      <ManagerName>Manager #20</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>71</id>
+    <name>Store #21</name>
+    <BaseStoreCost>2.295948E+12</BaseStoreCost>
+    <BaseStoreProfit>4.228848E+11</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>637411.6</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>1.152922E+20</ManagerCost>
+      <ManagerName>Manager #21</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>72</id>
+    <name>Store #22</name>
+    <BaseStoreCost>9.528185E+12</BaseStoreCost>
+    <BaseStoreProfit>1.712683E+12</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>1147341</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>9.223372E+20</ManagerCost>
+      <ManagerName>Manager #22</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>73</id>
+    <name>Store #23</name>
+    <BaseStoreCost>3.954197E+13</BaseStoreCost>
+    <BaseStoreProfit>6.936369E+12</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>2065214</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>7.378698E+21</ManagerCost>
+      <ManagerName>Manager #23</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>74</id>
+    <name>Store #24</name>
+    <BaseStoreCost>1.640992E+14</BaseStoreCost>
+    <BaseStoreProfit>2.809229E+13</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>3717384</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>5.902958E+22</ManagerCost>
+      <ManagerName>Manager #24</ManagerName>
+    </Manager>
+  </store>
+  <store>
+    <id>75</id>
+    <name>Store #25</name>
+    <BaseStoreCost>6.810116E+14</BaseStoreCost>
+    <BaseStoreProfit>1.137738E+14</BaseStoreProfit>
+    <image>circus</image>
+    <StoreTimer>6691292</StoreTimer>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>25</StoreTimerDivision>
+    <Manager>
+      <ManagerCost>4.722366E+23</ManagerCost>
+      <ManagerName>Manager #25</ManagerName>
+    </Manager>
+  </store>
+</gamedata>
